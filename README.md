@@ -1,4 +1,4 @@
-# CryptoPalsChallenges
+# Cryptopals Challenges
 
 These are my solutions in Python for the online cryptography puzzles, [Cryptopals Challenges](https://cryptopals.com/), also known as Matasano Cryptopals challenges.
 
