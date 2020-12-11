@@ -1,0 +1,1 @@
+I have contacted cryptopals via the email id on their website. There was no response from them. After 2 months, I started digging around the internet and found one repo where the questions were listed in text format. This is the repo - https://gist.github.com/arkadiyt/5b33bed653ce1dc26e1df9c249d8919e
